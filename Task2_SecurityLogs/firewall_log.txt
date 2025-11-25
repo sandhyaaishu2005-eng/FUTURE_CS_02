@@ -1,0 +1,4 @@
+Nov 25 09:03:12 firewall BLOCK IP 45.12.123.77: suspicious inbound traffic on port 22
+Nov 25 09:05:55 firewall BLOCK IP 192.168.1.20: outbound connection to blacklisted domain malware.bad.com
+Nov 25 09:10:11 firewall BLOCK IP 91.245.77.12: port scan detected
+Nov 25 09:14:33 firewall BLOCK IP 45.12.123.77: repeated brute-force attempt detected
